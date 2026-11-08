@@ -1,0 +1,1327 @@
+﻿[2026-11-09 00:29:38] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 00:29:55] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 00:31:29] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 00:31:43] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Debug, Platform=Win32
+[2026-11-09 00:31:43] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Debug, Platform=Win32
+[2026-11-09 00:31:43] [STEP] Building GOLDPOS.sln [Debug|Win32]...
+[2026-11-09 00:31:43] [STEP] Building GOLDPOS.sln [Debug|Win32]...
+[2026-11-09 00:31:44]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:31:44]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:31:44]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:31:44]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:31:44]     Auto generate message files...
+[2026-11-09 00:31:44]     Auto generate message files...
+[2026-11-09 00:31:44]     The system cannot find the path specified.
+[2026-11-09 00:31:44]     The system cannot find the path specified.
+[2026-11-09 00:31:44]     ERROR, COPY FAILED: "D:\KSM\Projects\POS\Source Code\grand_pos\pos\\XSLTranslator.Debug.dll"
+[2026-11-09 00:31:44]     ERROR, COPY FAILED: "D:\KSM\Projects\POS\Source Code\grand_pos\pos\\XSLTranslator.Debug.dll"
+[2026-11-09 00:31:44]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:31:44]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:31:44]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:31:44]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:31:45]     Done.
+[2026-11-09 00:31:45]     Done.
+[2026-11-09 00:31:45]     TransactionConverter.cpp
+[2026-11-09 00:31:45]     TransactionConverter.cpp
+[2026-11-09 00:31:45]   C:\GrandPOS\supporting\common\aldata\shared_classes\TransactionConverter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   C:\GrandPOS\supporting\common\aldata\shared_classes\TransactionConverter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Accounting.cpp
+[2026-11-09 00:31:45]     Accounting.cpp
+[2026-11-09 00:31:45]   ..\pos\Accounting.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\Accounting.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     ActionLogs.cpp
+[2026-11-09 00:31:45]     ActionLogs.cpp
+[2026-11-09 00:31:45]   ..\POS\ActionLogs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\ActionLogs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     AdvantageLinePrinter.cpp
+[2026-11-09 00:31:45]     AdvantageLinePrinter.cpp
+[2026-11-09 00:31:45]   ..\POS\AdvantageLinePrinter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\AdvantageLinePrinter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Agreement.cpp
+[2026-11-09 00:31:45]     Agreement.cpp
+[2026-11-09 00:31:45]   ..\pos\Agreement.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\Agreement.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     AuthDataInserter.cpp
+[2026-11-09 00:31:45]     AuthDataInserter.cpp
+[2026-11-09 00:31:45]   ..\POS\AuthDataInserter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\AuthDataInserter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     BankRefDlg.cpp
+[2026-11-09 00:31:45]     BankRefDlg.cpp
+[2026-11-09 00:31:45]   ..\POS\BankRefDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\BankRefDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Barcodes.cpp
+[2026-11-09 00:31:45]     Barcodes.cpp
+[2026-11-09 00:31:45]   ..\POS\Barcodes.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\Barcodes.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Biomatrics.cpp
+[2026-11-09 00:31:45]     Biomatrics.cpp
+[2026-11-09 00:31:45]   ..\POS\Biomatrics.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\Biomatrics.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     BlackList.cpp
+[2026-11-09 00:31:45]     BlackList.cpp
+[2026-11-09 00:31:45]   ..\pos\BlackList.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\BlackList.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Buffer.cpp
+[2026-11-09 00:31:45]     Buffer.cpp
+[2026-11-09 00:31:45]   ..\pos\Buffer.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\Buffer.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     CashRegister.cpp
+[2026-11-09 00:31:45]     CashRegister.cpp
+[2026-11-09 00:31:45]   ..\POS\CashRegister.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\CashRegister.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     CurrencyTable.cpp
+[2026-11-09 00:31:45]     CurrencyTable.cpp
+[2026-11-09 00:31:45]   ..\pos\CurrencyTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\CurrencyTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     Customer.cpp
+[2026-11-09 00:31:45]     Customer.cpp
+[2026-11-09 00:31:45]   ..\pos\Customer.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\Customer.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     customerDisplayDlg.cpp
+[2026-11-09 00:31:45]     customerDisplayDlg.cpp
+[2026-11-09 00:31:45]   ..\POS\customerDisplayDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\POS\customerDisplayDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]     CustomerTable.cpp
+[2026-11-09 00:31:45]     CustomerTable.cpp
+[2026-11-09 00:31:45]   ..\pos\CustomerTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:45]   ..\pos\CustomerTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     DataFile.cpp
+[2026-11-09 00:31:46]     DataFile.cpp
+[2026-11-09 00:31:46]   ..\pos\DataFile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\DataFile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     DataSource.cpp
+[2026-11-09 00:31:46]     DataSource.cpp
+[2026-11-09 00:31:46]   ..\pos\DataSource.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\DataSource.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     Discount.cpp
+[2026-11-09 00:31:46]     Discount.cpp
+[2026-11-09 00:31:46]   ..\POS\Discount.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\Discount.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     ErrorBase.cpp
+[2026-11-09 00:31:46]     ErrorBase.cpp
+[2026-11-09 00:31:46]   ..\pos\ErrorBase.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\ErrorBase.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     Generating Code...
+[2026-11-09 00:31:46]     Generating Code...
+[2026-11-09 00:31:46]     Compiling...
+[2026-11-09 00:31:46]     Compiling...
+[2026-11-09 00:31:46]     GeneralFunctions.cpp
+[2026-11-09 00:31:46]     GeneralFunctions.cpp
+[2026-11-09 00:31:46]   ..\pos\GeneralFunctions.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\GeneralFunctions.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GpdTable.cpp
+[2026-11-09 00:31:46]     GpdTable.cpp
+[2026-11-09 00:31:46]   ..\pos\GpdTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\GpdTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GridCell.cpp
+[2026-11-09 00:31:46]     GridCell.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCell.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCell.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GridCellBase.cpp
+[2026-11-09 00:31:46]     GridCellBase.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCellBase.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCellBase.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GridCtrl.cpp
+[2026-11-09 00:31:46]     GridCtrl.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCtrl.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridCtrl.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GridDropTarget.cpp
+[2026-11-09 00:31:46]     GridDropTarget.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridDropTarget.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\GridDropTarget.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     InPlaceEdit.cpp
+[2026-11-09 00:31:46]     InPlaceEdit.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\InPlaceEdit.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\InPlaceEdit.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     TitleTip.cpp
+[2026-11-09 00:31:46]     TitleTip.cpp
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\TitleTip.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridCtrl_src\TitleTip.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     GridDialouge.cpp
+[2026-11-09 00:31:46]     GridDialouge.cpp
+[2026-11-09 00:31:46]   ..\POS\GridDialouge.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\GridDialouge.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     IBMError.cpp
+[2026-11-09 00:31:46]     IBMError.cpp
+[2026-11-09 00:31:46]   ..\pos\IBMError.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\IBMError.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     IBMPos.cpp
+[2026-11-09 00:31:46]     IBMPos.cpp
+[2026-11-09 00:31:46]   ..\pos\IBMPos.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\IBMPos.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     ImageClass.cpp
+[2026-11-09 00:31:46]     ImageClass.cpp
+[2026-11-09 00:31:46]   ..\pos\ImageClass.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\ImageClass.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     InitialValues.cpp
+[2026-11-09 00:31:46]     InitialValues.cpp
+[2026-11-09 00:31:46]   ..\pos\InitialValues.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\InitialValues.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     KeybTrans.cpp
+[2026-11-09 00:31:46]     KeybTrans.cpp
+[2026-11-09 00:31:46]   ..\pos\KeybTrans.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\pos\KeybTrans.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]     LoanPaymentType.cpp
+[2026-11-09 00:31:46]     LoanPaymentType.cpp
+[2026-11-09 00:31:46]   ..\POS\LoanPaymentType.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:46]   ..\POS\LoanPaymentType.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     LocaleConfig.cpp
+[2026-11-09 00:31:47]     LocaleConfig.cpp
+[2026-11-09 00:31:47]   ..\POS\LocaleConfig.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\LocaleConfig.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     Login.cpp
+[2026-11-09 00:31:47]     Login.cpp
+[2026-11-09 00:31:47]   ..\pos\Login.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\Login.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     LoginManager.cpp
+[2026-11-09 00:31:47]     LoginManager.cpp
+[2026-11-09 00:31:47]   ..\POS\LoginManager.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\LoginManager.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     LogoTable.cpp
+[2026-11-09 00:31:47]     LogoTable.cpp
+[2026-11-09 00:31:47]   ..\pos\LogoTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\LogoTable.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     MasterMsg.cpp
+[2026-11-09 00:31:47]     MasterMsg.cpp
+[2026-11-09 00:31:47]   ..\pos\MasterMsg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\MasterMsg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     Generating Code...
+[2026-11-09 00:31:47]     Generating Code...
+[2026-11-09 00:31:47]     Compiling...
+[2026-11-09 00:31:47]     Compiling...
+[2026-11-09 00:31:47]     MediaTableParser.cpp
+[2026-11-09 00:31:47]     MediaTableParser.cpp
+[2026-11-09 00:31:47]   ..\POS\MediaTableParser.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\MediaTableParser.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     MscKeys.cpp
+[2026-11-09 00:31:47]     MscKeys.cpp
+[2026-11-09 00:31:47]   ..\pos\MscKeys.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\MscKeys.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     mtsclient_pos.cpp
+[2026-11-09 00:31:47]     mtsclient_pos.cpp
+[2026-11-09 00:31:47]   ..\POS\mtsclient_pos.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\mtsclient_pos.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     MutexLock.cpp
+[2026-11-09 00:31:47]     MutexLock.cpp
+[2026-11-09 00:31:47]   ..\pos\MutexLock.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\MutexLock.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     NCB.CPP
+[2026-11-09 00:31:47]     NCB.CPP
+[2026-11-09 00:31:47]   ..\pos\NCB.CPP : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\NCB.CPP : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     NVRAM.cpp
+[2026-11-09 00:31:47]     NVRAM.cpp
+[2026-11-09 00:31:47]   ..\pos\NVRAM.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\NVRAM.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     nvramfile.cpp
+[2026-11-09 00:31:47]     nvramfile.cpp
+[2026-11-09 00:31:47]   ..\pos\nvramfile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\nvramfile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OciusReceiptThread.cpp
+[2026-11-09 00:31:47]     OciusReceiptThread.cpp
+[2026-11-09 00:31:47]   ..\POS\OciusReceiptThread.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OciusReceiptThread.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OfflineVoucher.cpp
+[2026-11-09 00:31:47]     OfflineVoucher.cpp
+[2026-11-09 00:31:47]   ..\POS\OfflineVoucher.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OfflineVoucher.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     Online.cpp
+[2026-11-09 00:31:47]     Online.cpp
+[2026-11-09 00:31:47]   ..\pos\Online.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\Online.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OperatorDisplay1.cpp
+[2026-11-09 00:31:47]     OperatorDisplay1.cpp
+[2026-11-09 00:31:47]   ..\pos\OperatorDisplay1.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\OperatorDisplay1.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OPOSClient.cpp
+[2026-11-09 00:31:47]     OPOSClient.cpp
+[2026-11-09 00:31:47]   ..\pos\OPOSClient.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\OPOSClient.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OutputDevice.cpp
+[2026-11-09 00:31:47]     OutputDevice.cpp
+[2026-11-09 00:31:47]   ..\POS\OutputDevice.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OutputDevice.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OutputElement.cpp
+[2026-11-09 00:31:47]     OutputElement.cpp
+[2026-11-09 00:31:47]   ..\POS\OutputElement.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OutputElement.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OutputFormat.cpp
+[2026-11-09 00:31:47]     OutputFormat.cpp
+[2026-11-09 00:31:47]   ..\POS\OutputFormat.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OutputFormat.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     OutputUtility.cpp
+[2026-11-09 00:31:47]     OutputUtility.cpp
+[2026-11-09 00:31:47]   ..\POS\OutputUtility.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\POS\OutputUtility.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     Personal.cpp
+[2026-11-09 00:31:47]     Personal.cpp
+[2026-11-09 00:31:47]   ..\pos\Personal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\Personal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     PosAbs.cpp
+[2026-11-09 00:31:47]     PosAbs.cpp
+[2026-11-09 00:31:47]   ..\pos\PosAbs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\PosAbs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     PosAfx.cpp
+[2026-11-09 00:31:47]     PosAfx.cpp
+[2026-11-09 00:31:47]   ..\pos\PosAfx.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\PosAfx.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]     PosBmp.cpp
+[2026-11-09 00:31:47]     PosBmp.cpp
+[2026-11-09 00:31:47]   ..\pos\PosBmp.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:47]   ..\pos\PosBmp.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Generating Code...
+[2026-11-09 00:31:48]     Generating Code...
+[2026-11-09 00:31:48]     Compiling...
+[2026-11-09 00:31:48]     Compiling...
+[2026-11-09 00:31:48]     poseidosini.cpp
+[2026-11-09 00:31:48]     poseidosini.cpp
+[2026-11-09 00:31:48]   ..\pos\poseidosini.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\poseidosini.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosFinal.cpp
+[2026-11-09 00:31:48]     PosFinal.cpp
+[2026-11-09 00:31:48]   ..\pos\PosFinal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosFinal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosKfs.cpp
+[2026-11-09 00:31:48]     PosKfs.cpp
+[2026-11-09 00:31:48]   ..\pos\PosKfs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosKfs.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosMedia.cpp
+[2026-11-09 00:31:48]     PosMedia.cpp
+[2026-11-09 00:31:48]   ..\pos\PosMedia.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosMedia.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosNet.cpp
+[2026-11-09 00:31:48]     PosNet.cpp
+[2026-11-09 00:31:48]   ..\pos\PosNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosParking.cpp
+[2026-11-09 00:31:48]     PosParking.cpp
+[2026-11-09 00:31:48]   ..\pos\PosParking.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosParking.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosParkNet.cpp
+[2026-11-09 00:31:48]     PosParkNet.cpp
+[2026-11-09 00:31:48]   ..\pos\PosParkNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosParkNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosPlu.cpp
+[2026-11-09 00:31:48]     PosPlu.cpp
+[2026-11-09 00:31:48]   ..\pos\PosPlu.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosPlu.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosPora.cpp
+[2026-11-09 00:31:48]     PosPora.cpp
+[2026-11-09 00:31:48]   ..\pos\PosPora.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosPora.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosPrice.cpp
+[2026-11-09 00:31:48]     PosPrice.cpp
+[2026-11-09 00:31:48]   ..\pos\PosPrice.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosPrice.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     POSQueue.cpp
+[2026-11-09 00:31:48]     POSQueue.cpp
+[2026-11-09 00:31:48]   ..\pos\POSQueue.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\POSQueue.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosReceipt.cpp
+[2026-11-09 00:31:48]     PosReceipt.cpp
+[2026-11-09 00:31:48]   ..\POS\PosReceipt.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\PosReceipt.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosTest.cpp
+[2026-11-09 00:31:48]     PosTest.cpp
+[2026-11-09 00:31:48]   ..\pos\PosTest.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosTest.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosTestDlg.cpp
+[2026-11-09 00:31:48]     PosTestDlg.cpp
+[2026-11-09 00:31:48]   ..\pos\PosTestDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosTestDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     POSThread.cpp
+[2026-11-09 00:31:48]     POSThread.cpp
+[2026-11-09 00:31:48]   ..\pos\POSThread.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\POSThread.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PosVoid.cpp
+[2026-11-09 00:31:48]     PosVoid.cpp
+[2026-11-09 00:31:48]   ..\pos\PosVoid.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PosVoid.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PPClient.cpp
+[2026-11-09 00:31:48]     PPClient.cpp
+[2026-11-09 00:31:48]   ..\pos\PPClient.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PPClient.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     PPHigh.cpp
+[2026-11-09 00:31:48]     PPHigh.cpp
+[2026-11-09 00:31:48]   ..\pos\PPHigh.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\PPHigh.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     labelitemprovider.cpp
+[2026-11-09 00:31:48]     labelitemprovider.cpp
+[2026-11-09 00:31:48]   ..\POS\Pricing\labelitemprovider.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\Pricing\labelitemprovider.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Lotteryitemprovider.cpp
+[2026-11-09 00:31:48]     Lotteryitemprovider.cpp
+[2026-11-09 00:31:48]   ..\POS\Pricing\Lotteryitemprovider.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\Pricing\Lotteryitemprovider.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Generating Code...
+[2026-11-09 00:31:48]     Generating Code...
+[2026-11-09 00:31:48]     Compiling...
+[2026-11-09 00:31:48]     Compiling...
+[2026-11-09 00:31:48]     TransactionManager.cpp
+[2026-11-09 00:31:48]     TransactionManager.cpp
+[2026-11-09 00:31:48]   ..\POS\Pricing\TransactionManager.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\Pricing\TransactionManager.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     ProcessFinder.cpp
+[2026-11-09 00:31:48]     ProcessFinder.cpp
+[2026-11-09 00:31:48]   ..\pos\ProcessFinder.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\ProcessFinder.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     ProcFind.cpp
+[2026-11-09 00:31:48]     ProcFind.cpp
+[2026-11-09 00:31:48]   ..\pos\ProcFind.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\ProcFind.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Programming.cpp
+[2026-11-09 00:31:48]     Programming.cpp
+[2026-11-09 00:31:48]   ..\pos\Programming.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\pos\Programming.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     RcptMessageDlg.cpp
+[2026-11-09 00:31:48]     RcptMessageDlg.cpp
+[2026-11-09 00:31:48]   ..\POS\RcptMessageDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\RcptMessageDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Reason.cpp
+[2026-11-09 00:31:48]     Reason.cpp
+[2026-11-09 00:31:48]   ..\POS\Reason.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]   ..\POS\Reason.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:48]     Receipt.cpp
+[2026-11-09 00:31:48]     Receipt.cpp
+[2026-11-09 00:31:49]   ..\pos\Receipt.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\Receipt.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     ReceiptStrings.cpp
+[2026-11-09 00:31:49]     ReceiptStrings.cpp
+[2026-11-09 00:31:49]   ..\POS\ReceiptStrings.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\ReceiptStrings.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     RS232Camera.cpp
+[2026-11-09 00:31:49]     RS232Camera.cpp
+[2026-11-09 00:31:49]   ..\pos\RS232Camera.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\RS232Camera.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     RS232Display.cpp
+[2026-11-09 00:31:49]     RS232Display.cpp
+[2026-11-09 00:31:49]   ..\pos\RS232Display.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\RS232Display.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     RS232Scanner.cpp
+[2026-11-09 00:31:49]     RS232Scanner.cpp
+[2026-11-09 00:31:49]   ..\pos\RS232Scanner.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\RS232Scanner.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     Scale.cpp
+[2026-11-09 00:31:49]     Scale.cpp
+[2026-11-09 00:31:49]   ..\pos\Scale.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\Scale.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     ScreenSetupDlg.cpp
+[2026-11-09 00:31:49]     ScreenSetupDlg.cpp
+[2026-11-09 00:31:49]   ..\pos\ScreenSetupDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\ScreenSetupDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     SelectionItem.cpp
+[2026-11-09 00:31:49]     SelectionItem.cpp
+[2026-11-09 00:31:49]   ..\pos\SelectionItem.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\SelectionItem.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     SelectPopupDlg.cpp
+[2026-11-09 00:31:49]     SelectPopupDlg.cpp
+[2026-11-09 00:31:49]   ..\pos\SelectPopupDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\SelectPopupDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     selling.cpp
+[2026-11-09 00:31:49]     selling.cpp
+[2026-11-09 00:31:49]   ..\pos\selling.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\selling.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     SimpleBrowser.cpp
+[2026-11-09 00:31:49]     SimpleBrowser.cpp
+[2026-11-09 00:31:49]   ..\POS\SimpleBrowser.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\SimpleBrowser.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     SlaveNet.cpp
+[2026-11-09 00:31:49]     SlaveNet.cpp
+[2026-11-09 00:31:49]   ..\pos\SlaveNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\SlaveNet.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     StdAfx.cpp
+[2026-11-09 00:31:49]     StdAfx.cpp
+[2026-11-09 00:31:49]   ..\pos\StdAfx.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\StdAfx.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     StringMan.cpp
+[2026-11-09 00:31:49]     StringMan.cpp
+[2026-11-09 00:31:49]   ..\pos\StringMan.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\StringMan.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     Generating Code...
+[2026-11-09 00:31:49]     Generating Code...
+[2026-11-09 00:31:49]     Compiling...
+[2026-11-09 00:31:49]     Compiling...
+[2026-11-09 00:31:49]     SubDept.cpp
+[2026-11-09 00:31:49]     SubDept.cpp
+[2026-11-09 00:31:49]   ..\pos\SubDept.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\SubDept.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     Subtotal.cpp
+[2026-11-09 00:31:49]     Subtotal.cpp
+[2026-11-09 00:31:49]   ..\pos\Subtotal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\Subtotal.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     Tasking.cpp
+[2026-11-09 00:31:49]     Tasking.cpp
+[2026-11-09 00:31:49]   ..\pos\Tasking.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\Tasking.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     TaxSrtingDlg.cpp
+[2026-11-09 00:31:49]     TaxSrtingDlg.cpp
+[2026-11-09 00:31:49]   ..\POS\TaxSrtingDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\TaxSrtingDlg.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     TButton.cpp
+[2026-11-09 00:31:49]     TButton.cpp
+[2026-11-09 00:31:49]   ..\pos\TButton.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\pos\TButton.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     test.cpp
+[2026-11-09 00:31:49]     test.cpp
+[2026-11-09 00:31:49]   ..\POS\test.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\test.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     TestDlg1.cpp
+[2026-11-09 00:31:49]     TestDlg1.cpp
+[2026-11-09 00:31:49]   ..\POS\TestDlg1.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\TestDlg1.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     textfile.cpp
+[2026-11-09 00:31:49]     textfile.cpp
+[2026-11-09 00:31:49]   ..\POS\textfile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]   ..\POS\textfile.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:49]     TStatic.cpp
+[2026-11-09 00:31:49]     TStatic.cpp
+[2026-11-09 00:31:50]   ..\POS\TStatic.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]   ..\POS\TStatic.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]     Vat.cpp
+[2026-11-09 00:31:50]     Vat.cpp
+[2026-11-09 00:31:50]   ..\pos\Vat.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]   ..\pos\Vat.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]     webbrowser2.cpp
+[2026-11-09 00:31:50]     webbrowser2.cpp
+[2026-11-09 00:31:50]   ..\POS\webbrowser2.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]   ..\POS\webbrowser2.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]     Worker.cpp
+[2026-11-09 00:31:50]     Worker.cpp
+[2026-11-09 00:31:50]   ..\pos\Worker.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]   ..\pos\Worker.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]     XMLPrinter.cpp
+[2026-11-09 00:31:50]     XMLPrinter.cpp
+[2026-11-09 00:31:50]   ..\POS\XMLPrinter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]   ..\POS\XMLPrinter.cpp : fatal error C1041: cannot open program database 'D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:31:50]     Generating Code...
+[2026-11-09 00:31:50]     Generating Code...
+[2026-11-09 00:31:50] [ERROR] FAILED: MSBuild failed for 'GOLDPOS.sln' with exit code 1.
+[2026-11-09 00:32:00] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:32:00] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:32:00] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:32:00] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:32:00]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:32:00]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:32:00]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:32:00]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:32:01]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:01]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:01]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:01]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:01]     Auto generate message files...
+[2026-11-09 00:32:01]     Auto generate message files...
+[2026-11-09 00:32:01]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:32:01]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:32:01]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:32:01]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:32:01]     Done.
+[2026-11-09 00:32:01]     Done.
+[2026-11-09 00:32:03]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:03]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:32:03]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:32:03]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:32:08]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:32:08]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:32:08]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:32:08]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:32:08] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:32:08] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:32:08] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:32:08] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:32:08]   [OK] GrandPOS.exe (4801536 bytes, modified 00:32:05)
+[2026-11-09 00:32:08]   [OK] GrandPOS.exe (4801536 bytes, modified 00:32:05)
+[2026-11-09 00:32:08] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:32:08] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:32:08] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:32:08] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:32:08] [WARNING]   Terminating GrandPOS (PID: 11936)...
+[2026-11-09 00:32:08] [WARNING]   Terminating GrandPOS (PID: 11936)...
+[2026-11-09 00:32:13] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:32:13] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:32:13] [STEP] Checking file write locks on target files...
+[2026-11-09 00:32:13] [STEP] Checking file write locks on target files...
+[2026-11-09 00:32:13] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:32:13] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:32:13] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_003213
+[2026-11-09 00:32:13] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_003213
+[2026-11-09 00:32:13] [SUCCESS] Backed up 1 existing files successfully.
+[2026-11-09 00:32:13] [SUCCESS] Backed up 1 existing files successfully.
+[2026-11-09 00:32:13] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:32:13] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:32:13]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:32:13]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:32:13] [SUCCESS] All 1 files successfully deployed and verified.
+[2026-11-09 00:32:13] [SUCCESS] All 1 files successfully deployed and verified.
+[2026-11-09 00:32:13] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:32:13] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:32:13] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:32:13] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:32:13] [SUCCESS] Operation 'ExeOnly' Completed in 12.9s!
+[2026-11-09 00:38:38] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 00:38:59] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:38:59] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:38:59] [ERROR] FAILED: Grand POS executable solution not found:
+'D:\KSM\Projects\Dubatt\grand_pos\pos_master\GOLDPOS.sln'
+
+Ensure Source Code Root contains 'grand_pos\pos_master\GOLDPOS.sln'.
+[2026-11-09 00:39:33] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:39:33] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:39:33] [ERROR] FAILED: Grand POS executable solution not found:
+'D:\KSM\Projects\grand_pos\pos_master\GOLDPOS.sln'
+
+Ensure Source Code Root contains 'grand_pos\pos_master\GOLDPOS.sln'.
+[2026-11-09 00:39:55] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:39:55] [STEP] Starting Deployment Operation: Mode=ExeOnly, Config=Release, Platform=Win32
+[2026-11-09 00:39:55] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:39:55] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:39:55]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:39:55]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:39:55]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:39:55]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:39:55]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:55]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:55]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:55]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:55]     Auto generate message files...
+[2026-11-09 00:39:55]     Auto generate message files...
+[2026-11-09 00:39:55]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:39:55]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:39:56]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:39:56]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:39:56]     Done.
+[2026-11-09 00:39:56]     Done.
+[2026-11-09 00:39:57]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:57]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:39:57]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:39:57]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:40:01]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:40:01]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:40:01]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:40:01]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:40:01] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:40:01] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:40:01] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:40:01] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:40:01]   [OK] GrandPOS.exe (4801536 bytes, modified 00:39:59)
+[2026-11-09 00:40:01]   [OK] GrandPOS.exe (4801536 bytes, modified 00:39:59)
+[2026-11-09 00:40:01] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:40:01] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:40:01] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:40:01] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:40:01] [WARNING]   Terminating GrandPOS (PID: 20388)...
+[2026-11-09 00:40:01] [WARNING]   Terminating GrandPOS (PID: 20388)...
+[2026-11-09 00:40:06] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:40:06] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:40:06] [STEP] Checking file write locks on target files...
+[2026-11-09 00:40:06] [STEP] Checking file write locks on target files...
+[2026-11-09 00:40:06] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:40:06] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:40:06] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004006
+[2026-11-09 00:40:06] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004006
+[2026-11-09 00:40:06] [SUCCESS] Backed up 1 existing files successfully.
+[2026-11-09 00:40:06] [SUCCESS] Backed up 1 existing files successfully.
+[2026-11-09 00:40:06] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:40:06] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:40:06]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:40:06]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:40:06] [SUCCESS] All 1 files successfully deployed and verified.
+[2026-11-09 00:40:06] [SUCCESS] All 1 files successfully deployed and verified.
+[2026-11-09 00:40:06] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:40:06] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:40:06] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:40:06] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:40:06] [SUCCESS] Operation 'ExeOnly' Completed in 11.8s!
+[2026-11-09 00:40:58] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:40:58] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:40:58] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:40:58] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:40:58]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:40:58]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:40:58]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:40:58]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:40:59]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:40:59]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:40:59]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:40:59]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:40:59]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:40:59]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:40:59]             1 file(s) copied.
+[2026-11-09 00:40:59]             1 file(s) copied.
+[2026-11-09 00:41:00]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:41:00]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:41:00]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:41:00]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:41:00]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:41:00]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:41:00]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:41:00]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:41:00]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:41:00]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:41:00]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:41:00]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:41:00]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:41:00]             1 file(s) copied.
+[2026-11-09 00:41:01]             1 file(s) copied.
+[2026-11-09 00:41:01] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:41:01] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:41:01] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:41:01] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:41:01]   [OK] MixAndMatch.dll (743424 bytes, modified 23:51:52)
+[2026-11-09 00:41:01]   [OK] MixAndMatch.dll (743424 bytes, modified 23:51:52)
+[2026-11-09 00:41:01]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:41:01]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:41:01]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:41:01]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:41:01]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:41:01]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:41:01]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:41:01]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:41:01]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:41:01]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:41:01] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:41:01] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:41:01] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:41:01] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:41:01] [WARNING]   Terminating GrandPOS (PID: 7136)...
+[2026-11-09 00:41:01] [WARNING]   Terminating GrandPOS (PID: 7136)...
+[2026-11-09 00:41:06] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:41:06] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:41:06] [STEP] Checking file write locks on target files...
+[2026-11-09 00:41:06] [STEP] Checking file write locks on target files...
+[2026-11-09 00:41:06] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:41:06] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:41:06] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004106
+[2026-11-09 00:41:06] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004106
+[2026-11-09 00:41:06] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:41:06] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:41:06] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:41:06] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:41:06]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:41:06]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:41:06]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:41:06]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:41:06]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:41:06]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:41:06]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:41:06]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:41:06]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:41:06]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:41:06]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:41:06]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:41:06] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:41:06] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:41:06] [WARNING] Auto-restart skipped as per option setting.
+[2026-11-09 00:41:06] [WARNING] Auto-restart skipped as per option setting.
+[2026-11-09 00:41:06] [SUCCESS] Operation 'DLLsOnly' Completed in 7.9s!
+[2026-11-09 00:44:41] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:44:41] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:44:41] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:44:41] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:44:42]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:44:42]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:44:42]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:44:42]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:44:43]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:44:43]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:44:43]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     PricingRule.cpp
+[2026-11-09 00:44:43]     PricingRule.cpp
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:44:43]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:44:43]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:44:43]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:44:43]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]             1 file(s) copied.
+[2026-11-09 00:44:43]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:44:43]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:44:43]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:44:43]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:44:44]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:44]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:44]             1 file(s) copied.
+[2026-11-09 00:44:44]             1 file(s) copied.
+[2026-11-09 00:44:44]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:44:44]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:44:44]             1 file(s) copied.
+[2026-11-09 00:44:44]             1 file(s) copied.
+[2026-11-09 00:44:44]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:44]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:44:47]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:44:47]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:44:47]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:44:47]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:47]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:44:48]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:44:48]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:44:48]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:44:48]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:44:48]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:44:48]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:44:53]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:44:53]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:44:53]     Generating code
+[2026-11-09 00:44:53]     Generating code
+[2026-11-09 00:44:55]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:44:55]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:44:55]       0 functions were new in current compilation
+[2026-11-09 00:44:55]       0 functions were new in current compilation
+[2026-11-09 00:44:55]       18 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:44:55]       18 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:44:55]     Finished generating code
+[2026-11-09 00:44:55]     Finished generating code
+[2026-11-09 00:44:56]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:44:56]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:44:56]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:44:56]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:44:56]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:56]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:56]             1 file(s) copied.
+[2026-11-09 00:44:56]             1 file(s) copied.
+[2026-11-09 00:44:57]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:44:57]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:44:57]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:44:57]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:44:57]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:44:57]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:44:57]             1 file(s) copied.
+[2026-11-09 00:44:57]             1 file(s) copied.
+[2026-11-09 00:44:57]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:57]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:44:57]             1 file(s) copied.
+[2026-11-09 00:44:57]             1 file(s) copied.
+[2026-11-09 00:44:57] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:44:57] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:44:57] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:44:57] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:44:57]   [OK] MixAndMatch.dll (743424 bytes, modified 00:44:56)
+[2026-11-09 00:44:57]   [OK] MixAndMatch.dll (743424 bytes, modified 00:44:56)
+[2026-11-09 00:44:57]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:44:57]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:44:57]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:44:57]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:44:57]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:44:57]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:44:57]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:44:57]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:44:57]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:44:57]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:44:57] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:44:57] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:44:57] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:44:57] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:44:57] [WARNING]   Terminating GrandPOS (PID: 6036)...
+[2026-11-09 00:44:57] [WARNING]   Terminating GrandPOS (PID: 6036)...
+[2026-11-09 00:45:02] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:45:02] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:45:02] [STEP] Checking file write locks on target files...
+[2026-11-09 00:45:02] [STEP] Checking file write locks on target files...
+[2026-11-09 00:45:02] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:45:02] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:45:02] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004502
+[2026-11-09 00:45:02] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004502
+[2026-11-09 00:45:02] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:45:02] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:45:02] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:45:02] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:45:02]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:45:02]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:45:02]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:45:02]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:45:02]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:45:02]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:45:02]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:45:02]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:45:02]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:45:02]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:45:02]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:45:02]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:45:02] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:45:02] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:45:02] [WARNING] Auto-restart skipped as per option setting.
+[2026-11-09 00:45:02] [WARNING] Auto-restart skipped as per option setting.
+[2026-11-09 00:45:02] [SUCCESS] Operation 'DLLsOnly' Completed in 20.6s!
+[2026-11-09 00:46:50] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:46:50] [STEP] Starting Deployment Operation: Mode=DLLsOnly, Config=Release, Platform=Win32
+[2026-11-09 00:46:50] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:46:50] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:46:50]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:46:50]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:46:50]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:46:50]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:46:51]     PricingRule.cpp
+[2026-11-09 00:46:51]     PricingRule.cpp
+[2026-11-09 00:46:51]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:46:51]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:46:51]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:46:51]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:46:51]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:51]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:51]             1 file(s) copied.
+[2026-11-09 00:46:51]             1 file(s) copied.
+[2026-11-09 00:46:51]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:46:51]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:46:51]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:46:51]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:51]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:51]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:46:51]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:46:51]             1 file(s) copied.
+[2026-11-09 00:46:51]             1 file(s) copied.
+[2026-11-09 00:46:51]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:46:51]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:46:52]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]             1 file(s) copied.
+[2026-11-09 00:46:52]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:52]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:46:55]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:46:55]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:46:55]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:46:55]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:55]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:56]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:56]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:46:56]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:46:56]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:46:56]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:46:56]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:46:56]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:46:56]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:47:01]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:47:01]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:47:01]     Generating code
+[2026-11-09 00:47:01]     Generating code
+[2026-11-09 00:47:03]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:47:03]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:47:03]       0 functions were new in current compilation
+[2026-11-09 00:47:03]       0 functions were new in current compilation
+[2026-11-09 00:47:03]       1 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:47:03]       1 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:47:03]     Finished generating code
+[2026-11-09 00:47:03]     Finished generating code
+[2026-11-09 00:47:04]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:47:04]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:47:04]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:47:04]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:47:04]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:47:04]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:47:04]             1 file(s) copied.
+[2026-11-09 00:47:04]             1 file(s) copied.
+[2026-11-09 00:47:05]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:47:05]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:47:05]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:47:05]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:47:05]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:47:05]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:47:05]             1 file(s) copied.
+[2026-11-09 00:47:05]             1 file(s) copied.
+[2026-11-09 00:47:05]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:47:05]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:47:05]             1 file(s) copied.
+[2026-11-09 00:47:05]             1 file(s) copied.
+[2026-11-09 00:47:05] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:47:05] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:47:05] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:47:05] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:47:05]   [OK] MixAndMatch.dll (743424 bytes, modified 00:47:04)
+[2026-11-09 00:47:05]   [OK] MixAndMatch.dll (743424 bytes, modified 00:47:04)
+[2026-11-09 00:47:05]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:47:05]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:47:05]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:47:05]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:47:05]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:47:05]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:47:05]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:47:05]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:47:05]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:47:05]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:47:05] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:47:05] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:47:05] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:47:05] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:47:05] [WARNING]   Terminating GrandPOS (PID: 21104)...
+[2026-11-09 00:47:05] [WARNING]   Terminating GrandPOS (PID: 21104)...
+[2026-11-09 00:47:10] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:47:10] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:47:10] [STEP] Checking file write locks on target files...
+[2026-11-09 00:47:10] [STEP] Checking file write locks on target files...
+[2026-11-09 00:47:10] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:47:10] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:47:10] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004710
+[2026-11-09 00:47:10] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_004710
+[2026-11-09 00:47:11] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:47:11] [SUCCESS] Backed up 6 existing files successfully.
+[2026-11-09 00:47:11] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:47:11] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:47:11]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:47:11]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:47:11]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:47:11]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:47:11]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:47:11]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:47:11]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:47:11]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:47:11]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:47:11]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:47:11]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:47:11]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:47:11] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:47:11] [SUCCESS] All 6 files successfully deployed and verified.
+[2026-11-09 00:47:11] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:47:11] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:47:11] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:47:11] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:47:11] [SUCCESS] Operation 'DLLsOnly' Completed in 20.9s!
+[2026-11-09 00:49:52] [STEP] Starting Deployment Operation: Mode=All, Config=Release, Platform=Win32
+[2026-11-09 00:49:52] [STEP] Starting Deployment Operation: Mode=All, Config=Release, Platform=Win32
+[2026-11-09 00:49:52] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:49:52] [STEP] Building GOLDPOS.sln [Release|Win32]...
+[2026-11-09 00:49:52]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:49:52]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:49:52]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:49:52]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:49:53]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:49:53]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:49:53]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:49:53]   C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory. [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:49:53]     Auto generate message files...
+[2026-11-09 00:49:53]     Auto generate message files...
+[2026-11-09 00:49:53]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:49:53]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.h" file...
+[2026-11-09 00:49:53]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:49:53]     Creating "D:\KSM\Projects\POS\Source Code\grand_pos\pos\Configuration\Dbm\LangMsg_UK.rc" file...
+[2026-11-09 00:49:53]     Done.
+[2026-11-09 00:49:53]     Done.
+[2026-11-09 00:49:54]     Subtotal.cpp
+[2026-11-09 00:49:54]     Subtotal.cpp
+[2026-11-09 00:50:03]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:50:03]   HtmlRecipt1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification [D:\KSM\Projects\POS\Source Code\grand_pos\pos_master\GOLDPOS.vcxproj]
+[2026-11-09 00:50:04]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:50:04]        Creating library C:\AlData\GOLDPOSECR\GrandPOS.lib and object C:\AlData\GOLDPOSECR\GrandPOS.exp
+[2026-11-09 00:50:07]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:50:07]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.exe
+[2026-11-09 00:50:07]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:50:07]     GOLDPOS.vcxproj -> C:\AlData\GOLDPOSECR\GrandPOS.pdb (Full PDB)
+[2026-11-09 00:50:07] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:50:07] [SUCCESS] Build succeeded for 'GOLDPOS.sln'.
+[2026-11-09 00:50:07] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:50:07] [STEP] Building Pricing.sln [Release|Win32]...
+[2026-11-09 00:50:07]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:50:07]   Microsoft (R) Build Engine version 14.0.25420.1
+[2026-11-09 00:50:07]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:50:07]   Copyright (C) Microsoft Corporation. All rights reserved.
+[2026-11-09 00:50:09]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:50:09]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll
+[2026-11-09 00:50:09]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     ListPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:50:09]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll
+[2026-11-09 00:50:09]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     FixedPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     PricingRule.cpp
+[2026-11-09 00:50:09]     PricingRule.cpp
+[2026-11-09 00:50:09]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:50:09]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll
+[2026-11-09 00:50:09]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     LabelPrice.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.pdb (Full PDB)
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\FixedPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\ListPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\LabelPrice.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:50:09]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll
+[2026-11-09 00:50:09]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:50:09]     DataObjectManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.pdb (Full PDB)
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:50:09]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\DataObjectManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:09]             1 file(s) copied.
+[2026-11-09 00:50:10]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:10]   c:\grandpos\supporting\include\module\Utility.h(219): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(193): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(332): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\posdata/posdb/v1/data_file.h(366): warning C4838: conversion from 'WORD' to 'SHORT' requires a narrowing conversion [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   c:\grandpos\supporting\include\logging\Logger.h(79): warning C4251: 'Aldata::Framework::Logging::Logger::name': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:50:13]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:50:13]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   c:\grandpos\supporting\include\logging\Logger.h(82): warning C4251: 'Aldata::Framework::Logging::Logger::indentString': class 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' needs to have dll-interface to be used by clients of class 'Aldata::Framework::Logging::Logger' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:50:13]     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2635): note: see declaration of 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+[2026-11-09 00:50:13]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(229): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(239): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(588): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(595): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(630): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning) [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   PricingRule.cpp(632): warning C4101: 'ex': unreferenced local variable [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]   C:\GrandPOS\supporting\include\module/ModuleConsumer.h(278): warning C4302: 'type cast': truncation from 'PTSTR' to 'WORD' [D:\KSM\Projects\POS\Source Code\grand_pos_pricing\MixAndMatch\MixAndMatch.vcxproj]
+[2026-11-09 00:50:13]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:50:13]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(275): note: while compiling class template member function 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)'
+[2026-11-09 00:50:13]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:50:13]     C:\GrandPOS\supporting\include\module/ModuleConsumer.h(248): note: see reference to function template instantiation 'BOOL Aldata::Framework::Module::ModuleConsumer<DbModule>::EnumResNameProc(HMODULE,PCTSTR,PTSTR,LONG_PTR)' being compiled
+[2026-11-09 00:50:13]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:50:13]     c:\grandpos\supporting\include\posdata\DbAccessManager.h(109): note: see reference to class template instantiation 'Aldata::Framework::Module::ModuleConsumer<DbModule>' being compiled
+[2026-11-09 00:50:18]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:50:18]        Creating library D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.lib and object D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.exp
+[2026-11-09 00:50:18]     Generating code
+[2026-11-09 00:50:18]     Generating code
+[2026-11-09 00:50:20]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:50:20]     1 of 10899 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+[2026-11-09 00:50:20]       0 functions were new in current compilation
+[2026-11-09 00:50:20]       0 functions were new in current compilation
+[2026-11-09 00:50:20]       1 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:50:20]       1 functions had inline decision re-evaluated but remain unchanged
+[2026-11-09 00:50:21]     Finished generating code
+[2026-11-09 00:50:21]     Finished generating code
+[2026-11-09 00:50:22]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:50:22]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll
+[2026-11-09 00:50:22]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:50:22]     MixAndMatch.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.pdb (Full PDB)
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\MixAndMatch.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:50:22]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll
+[2026-11-09 00:50:22]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:50:22]     PriceManager.vcxproj -> D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.pdb (Full PDB)
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.lib into C:\GrandPOS\supporting\common\aldata\lib
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:22]     Copying D:\KSM\Projects\POS\Source Code\grand_pos_pricing\Release\PriceManager.dll into C:\GrandPOS\supporting\common\aldata\bin
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22]             1 file(s) copied.
+[2026-11-09 00:50:22] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:50:22] [SUCCESS] Build succeeded for 'Pricing.sln'.
+[2026-11-09 00:50:22] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:50:22] [STEP] Verifying Build Output Files Before Stopping POS...
+[2026-11-09 00:50:22]   [OK] GrandPOS.exe (4801536 bytes, modified 00:50:05)
+[2026-11-09 00:50:22]   [OK] GrandPOS.exe (4801536 bytes, modified 00:50:05)
+[2026-11-09 00:50:22]   [OK] MixAndMatch.dll (743424 bytes, modified 00:50:21)
+[2026-11-09 00:50:22]   [OK] MixAndMatch.dll (743424 bytes, modified 00:50:21)
+[2026-11-09 00:50:22]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:50:22]   [OK] PriceManager.dll (1426944 bytes, modified 19:14:55)
+[2026-11-09 00:50:22]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:50:22]   [OK] FixedPrice.dll (295424 bytes, modified 15:26:10)
+[2026-11-09 00:50:22]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:50:22]   [OK] LabelPrice.dll (116736 bytes, modified 15:25:40)
+[2026-11-09 00:50:22]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:50:22]   [OK] ListPrice.dll (105984 bytes, modified 15:25:58)
+[2026-11-09 00:50:22]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:50:22]   [OK] DataObjectManager.dll (269312 bytes, modified 15:26:05)
+[2026-11-09 00:50:22] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:50:22] [SUCCESS] All generated binaries verified.
+[2026-11-09 00:50:22] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:50:22] [STEP] Checking for running GrandPOS process...
+[2026-11-09 00:50:22] [WARNING]   Terminating GrandPOS (PID: 22912)...
+[2026-11-09 00:50:22] [WARNING]   Terminating GrandPOS (PID: 22912)...
+[2026-11-09 00:50:28] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:50:28] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 00:50:28] [STEP] Checking file write locks on target files...
+[2026-11-09 00:50:28] [STEP] Checking file write locks on target files...
+[2026-11-09 00:50:28] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:50:28] [SUCCESS] Target files are unlocked.
+[2026-11-09 00:50:28] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_005028
+[2026-11-09 00:50:28] [STEP] Creating backup in: C:\Grand\GOLDPOSECR\Backups\20261109_005028
+[2026-11-09 00:50:28] [SUCCESS] Backed up 7 existing files successfully.
+[2026-11-09 00:50:28] [SUCCESS] Backed up 7 existing files successfully.
+[2026-11-09 00:50:28] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:50:28] [STEP] Deploying updated files to C:\Grand\GOLDPOSECR...
+[2026-11-09 00:50:28]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:50:28]   Deployed: GrandPOS.exe [4801536 bytes]
+[2026-11-09 00:50:28]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:50:28]   Deployed: MixAndMatch.dll [743424 bytes]
+[2026-11-09 00:50:28]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:50:28]   Deployed: PriceManager.dll [1426944 bytes]
+[2026-11-09 00:50:28]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:50:28]   Deployed: FixedPrice.dll [295424 bytes]
+[2026-11-09 00:50:28]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:50:28]   Deployed: LabelPrice.dll [116736 bytes]
+[2026-11-09 00:50:28]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:50:28]   Deployed: ListPrice.dll [105984 bytes]
+[2026-11-09 00:50:28]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:50:28]   Deployed: DataObjectManager.dll [269312 bytes]
+[2026-11-09 00:50:28] [SUCCESS] All 7 files successfully deployed and verified.
+[2026-11-09 00:50:28] [SUCCESS] All 7 files successfully deployed and verified.
+[2026-11-09 00:50:28] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:50:28] [STEP] Restarting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 00:50:28] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:50:28] [SUCCESS] Grand POS restarted successfully.
+[2026-11-09 00:50:28] [SUCCESS] Operation 'All' Completed in 35.6s!
+[2026-11-09 01:03:08] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 01:03:17] [STEP] Stopping Grand POS...
+[2026-11-09 01:03:17] [WARNING]   Terminating GrandPOS (PID: 11420)...
+[2026-11-09 01:03:22] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:03:26] [STEP] Starting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 01:03:26] [SUCCESS] Grand POS started successfully (PID: 4392).
+[2026-11-09 01:03:39] [STEP] Restarting Grand POS...
+[2026-11-09 01:03:39] [STEP] Restarting Grand POS...
+[2026-11-09 01:03:39] [WARNING]   Terminating GrandPOS (PID: 4392)...
+[2026-11-09 01:03:39] [WARNING]   Terminating GrandPOS (PID: 4392)...
+[2026-11-09 01:03:44] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:03:44] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:03:45] [SUCCESS] Grand POS restarted successfully (PID: 23296).
+[2026-11-09 01:03:45] [SUCCESS] Grand POS restarted successfully (PID: 23296).
+[2026-11-09 01:03:50] Opening Grand POS Output.log: C:\Grand\GOLDPOSECR\Output.log
+[2026-11-09 01:04:31] [STEP] Stopping Grand POS...
+[2026-11-09 01:04:31] [WARNING]   Terminating GrandPOS (PID: 23296)...
+[2026-11-09 01:04:37] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:04:38] GrandPOS is not running.
+[2026-11-09 01:04:43] Opening Grand POS Output.log: C:\Grand\GOLDPOSECR\Output.log
+[2026-11-09 01:12:39] Grand POS Deployment Tool initialized. Ready for deployment.
+[2026-11-09 01:12:48] GrandPOS is not running.
+[2026-11-09 01:12:52] Opening Grand POS Output.log: C:\Grand\GOLDPOSECR\Output.log
+[2026-11-09 01:13:30] [STEP] Starting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 01:13:30] [SUCCESS] Grand POS started successfully (PID: 22036).
+[2026-11-09 01:13:40] [STEP] Stopping Grand POS...
+[2026-11-09 01:13:40] [WARNING]   Terminating GrandPOS (PID: 22036)...
+[2026-11-09 01:13:45] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:22:37] [STEP] Starting Grand POS (C:\Grand\GOLDPOSECR\GrandPOS.exe)...
+[2026-11-09 01:22:37] [SUCCESS] Grand POS started successfully (PID: 18004).
+[2026-11-09 01:22:42] [STEP] Stopping Grand POS...
+[2026-11-09 01:22:42] [WARNING]   Terminating GrandPOS (PID: 18004)...
+[2026-11-09 01:22:47] [SUCCESS] Process 'GrandPOS' stopped.
+[2026-11-09 01:32:58] Grand POS Development Tool initialized. Ready for deployment.
+[2026-11-09 01:33:17] Opening Grand POS Output.log: C:\Grand\GOLDPOSECR\Output.log
+[2026-11-09 01:33:20] Opening Grand POS Output.log: C:\Grand\GOLDPOSECR\Output.log
+[2026-11-09 01:33:25] GrandPOS is not running.
+[2026-11-09 01:33:28] [STEP] Restarting Grand POS...
+[2026-11-09 01:33:28] [STEP] Restarting Grand POS...
+[2026-11-09 01:33:28]   No running process named 'GrandPOS' found.
+[2026-11-09 01:33:28]   No running process named 'GrandPOS' found.
+[2026-11-09 01:33:29] [SUCCESS] Grand POS restarted successfully (PID: 17616).
+[2026-11-09 01:33:29] [SUCCESS] Grand POS restarted successfully (PID: 17616).
+[2026-11-09 01:33:34] [STEP] Stopping Grand POS...
+[2026-11-09 01:33:34] [WARNING]   Terminating GrandPOS (PID: 17616)...
+[2026-11-09 01:33:39] [SUCCESS] Process 'GrandPOS' stopped.
