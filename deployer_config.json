@@ -5,5 +5,12 @@
   "Configuration": "Release",
   "Platform": "Win32",
   "AutoRestart": true,
-  "Theme": "Dark"
+  "SwitchToOutputLogAfterDeploy": false,
+  "Theme": "Dark",
+  "DeployHistory": [
+    { "Timestamp": "2026-11-11T12:43:55.498", "Mode": "EXE", "Configuration": "Release", "Platform": "Win32" },
+    { "Timestamp": "2026-11-11T14:54:27.050", "Mode": "EXE", "Configuration": "Release", "Platform": "Win32" },
+    { "Timestamp": "2026-11-11T15:39:25.865", "Mode": "EXE", "Configuration": "Release", "Platform": "Win32" },
+    { "Timestamp": "2026-11-11T15:55:48.185", "Mode": "Pricing DLL", "Configuration": "Release", "Platform": "Win32" }
+  ]
 }
